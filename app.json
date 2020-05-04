@@ -1,0 +1,17 @@
+{
+  "name": "webrtc-gateway-example-app",
+  "displayName": "webrtc-gateway-example-app",
+  "expo": {
+    "name": "webrtc-gateway-example-app",
+    "slug": "webrtc-gateway-example-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
